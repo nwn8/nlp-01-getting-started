@@ -40,7 +40,7 @@ the rest of the course is much easier.
 
 ## First: Follow These Instructions
 
-Follow the [step-by-step workflow guide](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/) to complete:
+Follow the [step-by-step workflow guide](https://nwn8.github.io/pro-analytics-02/workflow-b-apply-example-project/) to complete:
 
 1. Phase 1. **Start & Run**
 2. Phase 2. **Change Authorship**
