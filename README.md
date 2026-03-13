@@ -1,3 +1,7 @@
+Author: Nathan Sloss
+
+
+
 # nlp-01-getting-started
 
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
